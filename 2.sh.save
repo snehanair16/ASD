@@ -1,0 +1,8 @@
+#!/bin/bash
+#author:sneha
+#14-12-2022
+#print second program
+echo "Program to print the number"
+echo "program to print the numbers"
+echo "the first number for addition $1"
+echo "the second number for addition $2
